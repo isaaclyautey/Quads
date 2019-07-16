@@ -3,3 +3,9 @@ env
 *.gif
 *.jpg
 
+# pipenv
+Pipfile
+Pipfile.lock
+
+# Visual Studio Code
+.vscode/
